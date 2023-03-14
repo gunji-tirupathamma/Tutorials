@@ -1,0 +1,46 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+}
+.heading {
+  font-size: 30px;
+  font-family: Roboto;
+  color: #0f172a;
+}
+.small-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fbbf24;
+  background-size: cover;
+  height: 20vh;
+  width: 20vh;
+}
+.message {
+  font-size: 30px;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+.small-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #38bdf8;
+  background-size: cover;
+  height: 20vh;
+  width: 20vh;
+}
+.large-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ec4899;
+  background-size: cover;
+  height: 60vh;
+  width: 60vh;
+}
